@@ -1,0 +1,8 @@
+
+
+Reading and preprocessing steps:
+
+1. Read image and mask off of the disk
+2. Split into train and test
+3. Create a dataset object and prepare it
+4. Create U-Net model
